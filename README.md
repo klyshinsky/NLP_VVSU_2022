@@ -6,6 +6,13 @@
 
 [Лекция 2](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220418_Parser.ipynb) Синтаксический анализ.  
 
+[Лекция 3, часть 1](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220419_1_Reduce_space.ipynb) Методы снижения размерности пространства.  
+[Лекция 3, часть 2](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220419_2_Clustering.ipynb) Методы кластеризации: k средних, DB SCAN.  
+[Лекция 3, часть 3](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220419_3_Classification.ipynb) Основные опеределения из области классификации, метод k ближайших соседей, линейная регрессия. 
+
+[Лекция 4, часть 2](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220425_2_DecisionTrees.ipynb) Методы классификации, основанные на деревьях.  
+[Лекция 4, часть 3](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220425_3_Ensamble.ipynb) Ансамблевые методы классификации. 
+
 
 
 
