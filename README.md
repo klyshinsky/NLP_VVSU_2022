@@ -13,6 +13,9 @@
 [Лекция 4, часть 2](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220425_2_DecisionTrees.ipynb) Методы классификации, основанные на деревьях.  
 [Лекция 4, часть 3](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220425_3_Ensamble.ipynb) Ансамблевые методы классификации. 
 
-
+[Лекция 5, часть 1](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220427_1-W2V.ipynb) Векторизация текстов с использованием Word2Vec и FastText.  
+[Лекция 5, часть 2](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220427_2-Levenstein.ipynb) Определение сходства слов при помощи расстояния Левенштейна.  
+[Лекция 5, часть 3](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220427_3-Collocations.ipynb) Методы выделения неоднословных конструкций. 
+ 
 
 
