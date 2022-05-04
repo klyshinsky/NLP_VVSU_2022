@@ -17,5 +17,5 @@
 [Лекция 5, часть 2](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220427_2-Levenstein.ipynb) Определение сходства слов при помощи расстояния Левенштейна.  
 [Лекция 5, часть 3](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220427_3-Collocations.ipynb) Методы выделения неоднословных конструкций. 
  
-
+[Лекция 6, программная часть](https://github.com/klyshinsky/NLP_VVSU_2022/blob/main/Lecture_20220504_Neural_Networks_Dense_CNN_RNN.ipynb) Работа с полносвязными нейронными сетями.
 
